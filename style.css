@@ -5,7 +5,7 @@
 body {
     font-family: Arial; 
     /* Define a fonte padrão */
-    background-image: url(Imagens/fundo.jpg);
+    background-image: url(fundo.jpg);
     /* Imagem de fundo da página */
     opacity: 0.9;
     /* Ajusta o valor de opacidade aqui */
